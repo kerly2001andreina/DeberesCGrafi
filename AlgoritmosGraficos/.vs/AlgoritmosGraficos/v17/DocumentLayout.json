@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|c:\\users\\acer\\source\\repos\\algoritmosgraficos\\algoritmosgraficos\\windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|solutionrelative:algoritmosgraficos\\windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|c:\\users\\acer\\source\\repos\\algoritmosgraficos\\algoritmosgraficos\\windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|solutionrelative:algoritmosgraficos\\windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|c:\\users\\acer\\source\\repos\\algoritmosgraficos\\algoritmosgraficos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|solutionrelative:algoritmosgraficos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|c:\\users\\acer\\source\\repos\\algoritmosgraficos\\algoritmosgraficos\\algoritmospoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|solutionrelative:algoritmosgraficos\\algoritmospoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|c:\\users\\acer\\source\\repos\\algoritmosgraficos\\algoritmosgraficos\\algoritmoslinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|solutionrelative:algoritmosgraficos\\algoritmoslinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|c:\\users\\acer\\source\\repos\\algoritmosgraficos\\algoritmosgraficos\\algoritmoscircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|solutionrelative:algoritmosgraficos\\algoritmoscircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|c:\\users\\acer\\source\\repos\\algoritmosgraficos\\algoritmosgraficos\\algoritmorelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|solutionrelative:algoritmosgraficos\\algoritmorelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|c:\\users\\acer\\source\\repos\\algoritmosgraficos\\algoritmosgraficos\\windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428663E-0724-4AD1-B3A0-BD5FAE3D971C}|AlgoritmosGraficos\\AlgoritmosGraficos.csproj|solutionrelative:algoritmosgraficos\\windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\Program.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficos\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\Program.cs",
+              "RelativeToolTip": "AlgoritmosGraficos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:25:35.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Windows.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\Windows.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficos\\Windows.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\Windows.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgoritmosGraficos\\Windows.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:05:21.523Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlgoritmosLinea.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\AlgoritmosLinea.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficos\\AlgoritmosLinea.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\AlgoritmosLinea.cs",
+              "RelativeToolTip": "AlgoritmosGraficos\\AlgoritmosLinea.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:16:51.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlgoritmosCircunferencia.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\AlgoritmosCircunferencia.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficos\\AlgoritmosCircunferencia.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\AlgoritmosCircunferencia.cs",
+              "RelativeToolTip": "AlgoritmosGraficos\\AlgoritmosCircunferencia.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:17:23.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Windows.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\Windows.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficos\\Windows.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\Windows.cs",
+              "RelativeToolTip": "AlgoritmosGraficos\\Windows.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAmwOsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:12:16.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlgoritmoRelleno.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\AlgoritmoRelleno.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficos\\AlgoritmoRelleno.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\AlgoritmoRelleno.cs",
+              "RelativeToolTip": "AlgoritmosGraficos\\AlgoritmoRelleno.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:18:34.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlgoritmosPoligono.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\AlgoritmosPoligono.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficos\\AlgoritmosPoligono.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\AlgoritmosPoligono.cs",
+              "RelativeToolTip": "AlgoritmosGraficos\\AlgoritmosPoligono.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:18:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Windows.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\Windows.Designer.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficos\\Windows.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\AlgoritmosGraficos\\AlgoritmosGraficos\\Windows.Designer.cs",
+              "RelativeToolTip": "AlgoritmosGraficos\\Windows.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwM4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:33:06.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

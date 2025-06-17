@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\bin\Debug\net8.0-windows\AlgoritmosGraficos.exe
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\bin\Debug\net8.0-windows\AlgoritmosGraficos.deps.json
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\bin\Debug\net8.0-windows\AlgoritmosGraficos.runtimeconfig.json
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\bin\Debug\net8.0-windows\AlgoritmosGraficos.dll
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\bin\Debug\net8.0-windows\AlgoritmosGraficos.pdb
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.Properties.Resources.resources
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.AssemblyInfo.cs
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.dll
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\refint\AlgoritmosGraficos.dll
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.pdb
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.genruntimeconfig.cache
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\ref\AlgoritmosGraficos.dll
+C:\Users\acer\source\repos\AlgoritmosGraficos\AlgoritmosGraficos\obj\Debug\net8.0-windows\AlgoritmosGraficos.Windows.resources
